@@ -27,7 +27,6 @@ function getCalendarDataFromLocalStorage(){
   console.log("Cards extracted")
 }
 
-
 export default function CalendarCardList() {
 
   preLoadCalendarDataToLocalStorage();

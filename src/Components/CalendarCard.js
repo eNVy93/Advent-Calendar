@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { errors } from '../Helpers/errors';
 
+var _openMonth = 12;
+
 function updateCardInLocalStorage(card) {
   let cards = JSON.parse(localStorage.getItem('cards'));
   let index = cards.findIndex(c => c.day === card.day)
@@ -18,7 +20,7 @@ export default function CalendarCard(props) {
     let month = date.getMonth() + 1;
     let day = date.getDate();
 
-    return (month === 12 && day >= card.day) ? true : false;
+    return (month === _openMonth && day >= card.day) ? true : false;
   }
 
   var openCard = (card) => {
@@ -45,7 +47,7 @@ export default function CalendarCard(props) {
           <span className="bg"></span>
           <span className="bg"></span>
           <div className="content">
-            <h2 className="title">DAY {props.card.day}</h2>
+            <h3 className="title">DAY {props.card.day}</h3>
             <p className="para">{props.card.text}</p>
           </div>
         </div>

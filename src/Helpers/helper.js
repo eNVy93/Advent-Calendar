@@ -5,7 +5,8 @@ export const helper = [
     day: 1,
     img: Kitty,
     text:
-      "Who delivers presents to baby sharks at Christmas? Santa Jaws!",
+      "Tai ką. Pirma advento kalendoriaus diena. Aš nežinau kokia ji tau bus, bet pradėsiu stipriai ;) " +
+      "Išpakuok pirmu numeriu pažymėtą dalyką. \n\nIt's all downhill from here.",
     open: false
   },
   {
@@ -13,7 +14,7 @@ export const helper = [
     day: 2,
     img: Kitty,
     text:
-      "What do they sing at a snowman’s birthday party? Freeze a jolly good fellow!",
+      "Pradėjome stipriai. Antras langelis yra tikras siurprizas... ;) \nLITERALY \nKAS TAI!?",
     open: false
   },
   {
@@ -21,7 +22,7 @@ export const helper = [
     day: 3,
     img: Kitty,
     text:
-      "What do Santa’s little helpers learn at school? The elf-abet!",
+      "Kad jau mėgsti prastą kavą, tai turiu tau kai ką kas bent kiek ją pagerins šituo šaltuoju laikotarpiu.",
     open: false
   },
   {
@@ -29,7 +30,7 @@ export const helper = [
     day: 4,
     img: Kitty,
     text:
-      "What kind of motorbike does Santa ride? A Holly Davidson!",
+      "Kava be saldiūškės? Pff.. Amateurs. Check the box silly ;)",
     open: false
   },
   {
@@ -37,7 +38,7 @@ export const helper = [
     day: 5,
     img: Kitty,
     text:
-      "What do you get if you cross Santa with a duck? A Christmas Quacker!",
+      "Tu katytė, kalendorius kačikių pilnas, tavo gyvenime jų taip pat netrūksta. O gal trūksta?",
     open: false
   },
   {
@@ -45,7 +46,7 @@ export const helper = [
     day: 6,
     img: Kitty,
     text:
-      "What goes “Oh, Oh, Oh”? Santa walking backwards!",
+      "Šitas langelis kitos. Šitas langelis suteikia galimybę priversti mane daryti tai kas man nelabai patinka. Įdomu kas tai?!",
     open: false
   },
   {
@@ -53,7 +54,7 @@ export const helper = [
     day: 7,
     img: Kitty,
     text:
-      "Why does Santa have three gardens? So he can ‘ho ho ho’!",
+      "Septinta diena. Iš kur žmonės semiasi išradingumo? \n\n Gal iš čia?..",
     open: false
   },
   {
@@ -61,7 +62,7 @@ export const helper = [
     day: 8,
     img: Kitty,
     text:
-      "What is the best Christmas present in the world? A broken drum, you just can’t beat it!",
+      "Anekdotas: \nWhat is the best Christmas present in the world? A broken drum, you just can’t beat it! \n Po tokių anekdotų reikia išgerti.",
     open: false
   },
   {
@@ -69,7 +70,7 @@ export const helper = [
     day: 9,
     img: Kitty,
     text:
-      "What do snowmen wear on their heads? Ice caps!",
+      "Po vieną - kiekvieną dieną. Ko? Sužinosi kitoje serijoje.",
     open: false
   },
   {
@@ -77,7 +78,7 @@ export const helper = [
     day: 10,
     img: Kitty,
     text:
-      "What do you get when you cross a snowman with a vampire? Frostbite!",
+      "O kas gi čia? https://open.spotify.com/playlist/5kbiWZu7iuzrQoSnLwCFtD?si=e96fa18fa9b84e50 Copy this link to find out. NOT A SCAM. PROMISE",
     open: false
   },
   {
@@ -85,7 +86,7 @@ export const helper = [
     day: 11,
     img: Kitty,
     text:
-      "Why don’t you ever see Santa in hospital? Because he has private elf care!",
+      "Po tokio tūso reikia taisyti sveikatą.",
     open: false
   },
   {
